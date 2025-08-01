@@ -1,0 +1,11 @@
+department_id,department_name,location
+1,Engineering,"New York, NY"
+2,Human Resources,"London, UK"
+3,Sales,"Tokyo, JP"
+4,Marketing,"Paris, FR"
+5,Product Management,"San Francisco, CA"
+6,Quality Assurance,"Austin, TX"
+7,Customer Support,"Dublin, IE"
+8,Research & Development,"Berlin, DE"
+9,Finance,"New York, NY"
+10,Legal,"Washington, D.C."

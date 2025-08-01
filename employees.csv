@@ -1,0 +1,31 @@
+employee_id,first_name,last_name,email,phone_number,job_title,department_id,manager_id
+1,Adeline,Bernard,adeline.bernard@example.com,555-0100,VP of Engineering,1,
+2,Byron,Sharp,byron.sharp@example.com,555-0101,HR Director,2,
+3,Catherine,Vance,catherine.vance@example.com,555-0102,Sales Director,3,
+4,Declan,Hayes,declan.hayes@example.com,555-0103,Marketing Director,4,
+5,Elias,Fischer,elias.fischer@example.com,555-0104,Product Director,5,1
+6,Fiona,Gomez,fiona.gomez@example.com,555-0105,Engineering Manager,1,1
+7,Gabriel,Rossi,gabriel.rossi@example.com,555-0106,Sales Manager,3,3
+8,Heidi,Kim,heidi.kim@example.com,555-0107,Product Manager,5,5
+9,Ivan,Petrov,ivan.petrov@example.com,555-0108,Finance Manager,9,
+10,Jasmine,Khan,jasmine.khan@example.com,555-0109,Lead Counsel,10,
+11,Liam,Smith,liam.smith@example.com,555-0110,Senior Software Engineer,1,6
+12,Olivia,Johnson,olivia.johnson@example.com,555-0111,Software Engineer,1,6
+13,Noah,Williams,noah.williams@example.com,555-0112,Software Engineer,1,6
+14,Emma,Brown,emma.brown@example.com,555-0113,Junior Software Engineer,1,11
+15,Oliver,Jones,oliver.jones@example.com,555-0114,DevOps Engineer,1,6
+16,Ava,Garcia,ava.garcia@example.com,555-0115,HR Business Partner,2,2
+17,Elijah,Miller,elijah.miller@example.com,555-0116,Recruiter,2,2
+18,Charlotte,Davis,charlotte.davis@example.com,555-0117,Account Executive,3,7
+19,William,Rodriguez,william.rodriguez@example.com,555-0118,Sales Development Rep,3,7
+20,Sophia,Martinez,sophia.martinez@example.com,555-0119,Account Executive,3,7
+21,Mason,Hernandez,mason.hernandez@example.com,555-0120,Marketing Specialist,4,4
+22,Isabella,Lopez,isabella.lopez@example.com,555-0121,Content Creator,4,4
+23,James,Gonzalez,james.gonzalez@example.com,555-0122,Product Designer,5,8
+24,Mia,Wilson,mia.wilson@example.com,555-0123,QA Engineer,6,1
+25,Benjamin,Anderson,benjamin.anderson@example.com,555-0124,Support Specialist,7,1
+26,Evelyn,Thomas,evelyn.thomas@example.com,555-0125,R&D Scientist,8,1
+27,Lucas,Taylor,lucas.taylor@example.com,555-0126,Financial Analyst,9,9
+28,Harper,Moore,harper.moore@example.com,555-0127,Paralegal,10,10
+29,Henry,Jackson,henry.jackson@example.com,555-0128,QA Analyst,6,1
+30,Aria,White,aria.white@example.com,555-0129,Junior Accountant,9,9
